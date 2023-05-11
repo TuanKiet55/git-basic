@@ -1,0 +1,4 @@
+NgoTuanKiet|SE17A04|9|8|2
+NgoTuanHoang|SE17A04|8|5|3
+NgoTuanAnh|SE17A02|8|7|8
+NgoTuanTai|SE17A03|8|8|6
